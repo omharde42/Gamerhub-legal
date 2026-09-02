@@ -60,4 +60,4 @@ You can manage or disable non-essential cookies through:
 ## 5. DOCUMENT VERSION CONTROL
 
 * **Document Name:** GamerHub Cookie Policy
-* **Ref:** `policies/cookie-policy.md` | **Version:** 1.0 | **Date:** [DATE]
+* **Ref:** `policies/cookie-policy.md` | **Version:** 1.0 | **Date:** [30/Aug/2026]
