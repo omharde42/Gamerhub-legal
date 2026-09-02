@@ -1,8 +1,8 @@
 # GAMERHUB USER PRIVACY POLICY
 
 **Document Version:** 1.0
-**Effective Date:** [DATE]
-**Entity / Project Name:** GamerHub (`[LEGAL ENTITY NAME]`)
+**Effective Date:** [30/Aug/2026]
+**Entity / Project Name:** GamerHub 
 **Jurisdiction:** [GOVERNING LAW / JURISDICTION]
 
 ---
@@ -15,7 +15,7 @@
 
 ## 1. INTRODUCTION & SCOPE
 
-GamerHub (`[LEGAL ENTITY NAME]`, "we", "us", or "our") is committed to protecting the privacy and personal data of users ("you" or "user") who visit our website, register accounts, or utilize our gaming services.
+GamerHub ( "we", "us", or "our") is committed to protecting the privacy and personal data of users ("you" or "user") who visit our website, register accounts, or utilize our gaming services.
 
 This Privacy Policy explains how we collect, use, disclose, retain, and protect your information when you access GamerHub services.
 
@@ -84,13 +84,12 @@ Subject to applicable laws in `[GOVERNING LAW / JURISDICTION]`, users possess th
 For privacy inquiries, data subject requests, or policy questions, please contact:
 
 **GamerHub Privacy Officer**
-Email: `[PRIVACY EMAIL]`
-Address: `[ADDRESS]`
-Entity: `[LEGAL ENTITY NAME]`
+Email: `-`
+Address: Pune, MH , INDIA
 
 ---
 
 ## 8. DOCUMENT VERSION CONTROL
 
 * **Document Name:** GamerHub User Privacy Policy
-* **Ref:** `policies/privacy-policy.md` | **Version:** 1.0 | **Date:** [DATE]
+* **Ref:** `policies/privacy-policy.md` | **Version:** 1.0 | **Date:** 30/Aug/2026
