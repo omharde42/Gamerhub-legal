@@ -1,8 +1,8 @@
 # GAMERHUB COOKIE AND BROWSER STORAGE POLICY
 
 **Document Version:** 1.0
-**Effective Date:** [DATE]
-**Entity / Project Name:** GamerHub (`[LEGAL ENTITY NAME]`)
+**Effective Date:** [30/Aug/2026]
+**Entity / Project Name:** GamerHub 
 **Jurisdiction:** [GOVERNING LAW / JURISDICTION]
 
 ---
