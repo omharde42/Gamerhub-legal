@@ -34,4 +34,4 @@
 ## 3. SCHEDULED REVIEW PROTOCOL
 
 * All documents within the GamerHub Legal Package must undergo formal review at least annually or upon any material change in legal entity structure, funding status, or co-founder membership.
-* **Next Scheduled Package Review:** `[DATE]`
+* **Next Scheduled Package Review:** `[NOT CONFIRMED]`
