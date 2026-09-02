@@ -10,16 +10,16 @@
 
 | Ref # | Document Title | File Location | Current Version | Status | Last Reviewed |
 |---|---|---|---|---|---|
-| **DOC-01** | Founder, Co-Founder & Governance Agreement | `legal/01-founder-cofounder-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-02** | Intellectual Property Ownership Agreement | `legal/02-ip-ownership-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-03** | Website Management & Handling Agreement | `legal/03-website-management-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-04** | Marketing & Public Relations Agreement | `legal/04-marketing-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-05** | Confidentiality and Non-Disclosure Agreement | `legal/05-confidentiality-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-06** | Contributor & Repository Governance Policy | `legal/06-contributor-agreement.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-07** | User Privacy Policy | `policies/privacy-policy.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-08** | Terms of Service | `policies/terms-of-service.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-09** | Cookie & Browser Storage Policy | `policies/cookie-policy.md` | `1.0` | Draft / Pending Review | `[DATE]` |
-| **DOC-10** | Security & Access Control Policy | `policies/security-policy.md` | `1.0` | Draft / Pending Review | `[DATE]` |
+| **DOC-01** | Founder, Co-Founder & Governance Agreement | `legal/01-founder-cofounder-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-02** | Intellectual Property Ownership Agreement | `legal/02-ip-ownership-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-03** | Website Management & Handling Agreement | `legal/03-website-management-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-04** | Marketing & Public Relations Agreement | `legal/04-marketing-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-05** | Confidentiality and Non-Disclosure Agreement | `legal/05-confidentiality-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-06** | Contributor & Repository Governance Policy | `legal/06-contributor-agreement.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026E]` |
+| **DOC-07** | User Privacy Policy | `policies/privacy-policy.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-08** | Terms of Service | `policies/terms-of-service.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-09** | Cookie & Browser Storage Policy | `policies/cookie-policy.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
+| **DOC-10** | Security & Access Control Policy | `policies/security-policy.md` | `1.0` | Draft / Pending Review | `[30/Aug/2026]` |
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Version | Release Date | Documents Modified | Change Description | Approved By |
 |---|---|---|---|---|
-| **1.0** | `[DATE]` | All Documents | Initial drafting of Master Legal Documentation Package for GamerHub project governance, IP ownership, website handling, marketing, confidentiality, user policies, and repository governance. | Yash, Om Harde, Purvesh Bhadale |
+| **1.0** | `[30/Aug/2026]` | All Documents | Initial drafting of Master Legal Documentation Package for GamerHub project governance, IP ownership, website handling, marketing, confidentiality, user policies, and repository governance. | Yash, Om Harde, Purvesh Bhadale |
 
 ---
 
