@@ -1,20 +1,12 @@
-# ⚖️ GamerHub Legal & Governance
+# GamerHub Legal & Governance Documentation Package
 
-Official legal, governance, ownership, and operational documentation for **GamerHub**.
-
-This repository is maintained to document the roles, responsibilities, intellectual-property rights, access permissions, confidentiality requirements, and operational rules associated with the GamerHub project.
+Welcome to the central legal repository for **GamerHub**. This repository contains the complete legal documentation, governance agreements, operational policies, and document history for GamerHub.
 
 ---
 
-## 👥 Core Team
+## ⚠️ Important Legal Disclaimer
 
-| Name | Role | Primary Responsibility |
-|---|---|---|
-| **Yash** | Founder | Leadership, strategic direction & major decisions |
-| **Om Harde** | Co-Founder | Technology, product development & technical direction |
-| **Purvesh Bhadale** | Marketing & Website Management Lead | Marketing, website management & digital presence |
-
-> **Important:** A person's operational role or access to a GamerHub system does not automatically establish ownership of GamerHub, its source code, domain, trademarks, databases, or other intellectual property.
+> **NOTICE:** The documents contained within this repository are project governance and agreement drafts for **GamerHub**. They are provided for structure, operational clarity, and governance drafting purposes. **These documents must be reviewed, finalized, and executed by a qualified legal professional / lawyer in the relevant jurisdiction before being relied upon as binding legal agreements or official legal policies.**
 
 ---
 
@@ -23,184 +15,83 @@ This repository is maintained to document the roles, responsibilities, intellect
 ```text
 GamerHub-Legal/
 │
-├── README.md
-├── LICENSE
+├── README.md                           # Repository Overview & Master Index
+├── LICENSE                             # Repository License & Usage Notice
 │
-├── legal/
-│   ├── 01-founder-cofounder-agreement.md
-│   ├── 02-ip-ownership-agreement.md
-│   ├── 03-website-management-agreement.md
-│   ├── 04-marketing-agreement.md
-│   ├── 05-confidentiality-agreement.md
-│   └── 06-contributor-agreement.md
+├── legal/                              # Key Governance & Operational Agreements
+│   ├── 01-founder-cofounder-agreement.md # Master Governance & Partnership Agreement
+│   ├── 02-ip-ownership-agreement.md      # Intellectual Property & Asset Assignment
+│   ├── 03-website-management-agreement.md# Website Management & Admin Agreement
+│   ├── 04-marketing-agreement.md         # Marketing & Public Relations Agreement
+│   ├── 05-confidentiality-agreement.md   # Non-Disclosure & Confidentiality Agreement
+│   └── 06-contributor-agreement.md       # Contributor & Repository Governance Policy
 │
-├── policies/
-│   ├── privacy-policy.md
-│   ├── terms-of-service.md
-│   ├── cookie-policy.md
-│   └── security-policy.md
+├── policies/                           # Operational & Public Policies
+│   ├── privacy-policy.md                 # User Privacy & Data Protection Policy
+│   ├── terms-of-service.md               # User Terms of Service & Platform Rules
+│   ├── cookie-policy.md                  # Cookie & Tracking Policy
+│   └── security-policy.md                # Security, Access Control & Secret Policy
 │
-└── records/
-    └── document-version-history.md
+└── records/                            # Audit & Document Versioning
+    └── document-version-history.md       # Document Change Log & Version Registry
 ```
 
 ---
 
-## 📜 Legal Documentation
+## 👥 Key Project Parties
 
-### Founder & Co-Founder Agreement
-Defines the relationship between the Founder and Co-Founder, including responsibilities, decision-making, ownership arrangements, and project governance.
-
-### Intellectual Property Agreement
-Addresses ownership and permitted use of:
-
-- Source code
-- Website code
-- Designs
-- Graphics
-- Documentation
-- Branding
-- Databases
-- Technical assets
-- Other GamerHub work product
-
-### Website Management Agreement
-Defines the responsibilities and authority of the person responsible for GamerHub's website management.
-
-### Marketing Agreement
-Defines marketing responsibilities, promotional activities, social-media management, and related authority.
-
-### Confidentiality Agreement
-Protects confidential information including:
-
-- Source code
-- Credentials
-- API keys
-- Business plans
-- Unreleased features
-- Financial information
-- User information
-- Internal documentation
-
-### Contributor Agreement
-Defines how contributions from developers, designers, writers, and other contributors are handled.
+| Party | Name | Role | Operational Focus |
+|---|---|---|---|
+| **Party 1** | **Yash** | Founder | Overall leadership, strategic vision, major financial/partnership approvals |
+| **Party 2** | **Om Harde** | Co-Founder | Technical architecture, product development, source code management |
+| **Party 3** | **Purvesh Bhadale** | Marketing & Website Management | Social media marketing, growth campaigns, website administration |
 
 ---
 
-## 🔐 Ownership & Intellectual Property
+## 📋 Document Summary
 
-GamerHub's intellectual property should be managed according to the applicable signed agreements.
+1. **`legal/01-founder-cofounder-agreement.md`**
+   Defines the overall structure, leadership roles, decision-making protocols, revenue/expense allocation, exit procedures, and governance rules between Yash, Om Harde, and Purvesh Bhadale.
 
-This may include:
+2. **`legal/02-ip-ownership-agreement.md`**
+   Establishes project ownership for source code, brand assets, UI/UX designs, database schemas, domains, and administrative accounts. Distinguishes pre-existing work from GamerHub work product.
 
-- GamerHub name and branding
-- Logos and visual identity
-- Source code
-- Website and applications
-- Databases
-- Documentation
-- Designs
-- Marketing assets
-- Domain names
-- Social-media accounts
-- Other project-specific materials
+3. **`legal/03-website-management-agreement.md`**
+   Defines Purvesh Bhadale's website management responsibilities, change approval workflows, security protocols, and explicitly clarifies that website management does not convey IP ownership.
 
-Ownership percentages and equity arrangements are **not specified in this repository unless formally agreed and documented**.
+4. **`legal/04-marketing-agreement.md`**
+   Outlines marketing responsibilities, social media handle management, promotional guidelines, campaign spending approvals, and commercial partnership rules.
 
----
+5. **`legal/05-confidentiality-agreement.md`**
+   Establishes strict confidentiality obligations regarding source code, API keys, credentials, financial records, user data, and unreleased platform features.
 
-## 🌐 Website & Digital Assets
+6. **`legal/06-contributor-agreement.md`**
+   Provides GitHub organization and repository administration rules, code review standards, branch protection, deployment rules, and contributor IP assignments.
 
-GamerHub may use multiple digital services, including:
+7. **`policies/privacy-policy.md` & `policies/terms-of-service.md`**
+   User-facing policies governing privacy, data deletion, acceptable use, account creation, and liability limits.
 
-- GitHub
-- Hosting providers
-- Domains
-- Databases
-- Social-media platforms
-- Analytics services
-- Email services
-- Third-party APIs
+8. **`policies/cookie-policy.md` & `policies/security-policy.md`**
+   Operational policies for browser storage/cookies, administrative access controls, secret management, and vulnerability response.
 
-Administrative access should be granted according to each person's responsibilities and should not be treated as automatic ownership.
+9. **`records/document-version-history.md`**
+   Central audit log tracking modifications, version releases, approval dates, and review schedules.
 
 ---
 
-## 🔒 Security
+## 🔖 Placeholder Notation Standard
 
-Team members and contributors must:
-
-- Protect passwords and credentials.
-- Never expose API keys or secrets publicly.
-- Avoid committing secrets to Git repositories.
-- Use appropriate access permissions.
-- Report serious security issues promptly.
-- Remove or transfer access when responsibilities end.
-
----
-
-## 🤝 Contributions
-
-Contributions to GamerHub may be subject to separate contributor or intellectual-property agreements.
-
-Before submitting significant work, contributors should verify the applicable terms governing ownership and licensing.
+To prevent inaccurate assumptions, all legal entity details, addresses, monetary figures, jurisdiction laws, and percentages use explicit standard placeholders:
+- `[LEGAL ENTITY NAME]`
+- `[DATE]`
+- `[ADDRESS]`
+- `[OWNERSHIP PERCENTAGE]`
+- `[REVENUE SHARE]`
+- `[GOVERNING LAW / JURISDICTION]`
+- `[TO BE FILLED]`
 
 ---
 
-## 📝 Document Versioning
+## 📜 Maintenance and Amendments
 
-Legal documents should maintain version history.
-
-Each significant modification should record:
-
-- Version number
-- Date
-- Description of change
-- Person(s) approving the change
-
-See:
-
-`records/document-version-history.md`
-
----
-
-## ⚠️ Legal Disclaimer
-
-This repository contains draft and/or operational legal documentation for GamerHub.
-
-The documents are provided for organizational and documentation purposes and **do not constitute legal advice**.
-
-No document should be represented as legally enforceable in a particular jurisdiction without appropriate legal review.
-
-Where applicable, the final agreements should be reviewed by a qualified legal professional before execution.
-
----
-
-## 📌 Status
-
-**Project:** GamerHub  
-**Repository:** GamerHub-Legal  
-**Document Status:** Active / Under Development  
-**Current Version:** 1.0  
-**Last Updated:** `[DATE]`
-
----
-
-## 📄 License
-
-Unless a separate document states otherwise, the contents of this repository are protected by the accompanying `LICENSE` file.
-
-Unauthorized copying, redistribution, modification, publication, or commercial use is not permitted.
-
----
-
-## 👤 Project Leadership
-
-**Founder:** Yash  
-**Co-Founder:** Om Harde  
-**Marketing & Website Management Lead:** Purvesh Bhadale
-
----
-
-**© 2026 GamerHub. All rights reserved.**
-**Legal Document of Owning Gamerhub  Copyright@2026 by Gamerhub** 
+Any amendment to documents within `legal/` must be executed in writing, signed by authorized representatives (Yash and Om Harde), and logged within `records/document-version-history.md`.
