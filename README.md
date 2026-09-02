@@ -79,19 +79,6 @@ GamerHub-Legal/
 
 ---
 
-## 🔖 Placeholder Notation Standard
-
-To prevent inaccurate assumptions, all legal entity details, addresses, monetary figures, jurisdiction laws, and percentages use explicit standard placeholders:
-- `[LEGAL ENTITY NAME]`
-- `[DATE]`
-- `[ADDRESS]`
-- `[OWNERSHIP PERCENTAGE]`
-- `[REVENUE SHARE]`
-- `[GOVERNING LAW / JURISDICTION]`
-- `[TO BE FILLED]`
-
----
-
 ## 📜 Maintenance and Amendments
 
 Any amendment to documents within `legal/` must be executed in writing, signed by authorized representatives (Yash and Om Harde), and logged within `records/document-version-history.md`.
